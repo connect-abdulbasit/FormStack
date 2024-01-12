@@ -13,7 +13,11 @@ This project implements a web-based job application form with form validation an
 - HTML
 - CSS
 - JavaScript
+## Learning Highlights
 
+- Form Validation with Event Listeners
+- Styling with media queries
+- Understanding Parent and Children Nodes
 ## Getting Started
 
 To use the job application form, simply open the `index.html` file in a web browser.
