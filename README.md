@@ -23,5 +23,5 @@ This project implements a web-based job application form with form validation an
 To use the job application form, simply open the `index.html` file in a web browser.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/connect-abdulbasit/ApplicationForm.git
+cd ApplicationForm
